@@ -12,4 +12,9 @@ learn-java-script
 Please go to this link/gist:
 https://gist.github.com/bb2069944386c4c783cc1aab54c9bd61
 
+# Global Scope
+learn-java-script
+Please go to this link/gist:
+https://gist.github.com/f2cc23cfbfcb40649ad7de5bae75bc8d
+
 
